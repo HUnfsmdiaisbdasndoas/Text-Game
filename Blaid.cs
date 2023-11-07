@@ -17,4 +17,8 @@ class Program
 		}
 			
 	}
+	static void Main()
+	{
+		Console.WriteLine("I don't even know if it works")
+	}
 }
